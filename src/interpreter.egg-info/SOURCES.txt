@@ -1,0 +1,17 @@
+pyproject.toml
+src/interpreter/__init__.py
+src/interpreter/ast.py
+src/interpreter/compiler.py
+src/interpreter/interpreter.py
+src/interpreter/parser.py
+src/interpreter/stack.py
+src/interpreter/token_types.py
+src/interpreter/tokenizer.py
+src/interpreter.egg-info/PKG-INFO
+src/interpreter.egg-info/SOURCES.txt
+src/interpreter.egg-info/dependency_links.txt
+src/interpreter.egg-info/top_level.txt
+tests/test_compiler.py
+tests/test_interpreter.py
+tests/test_parser.py
+tests/test_tokenizer.py
